@@ -18,7 +18,7 @@ function Fourfunction() {
 
     })
 
-    let arr1 = [10, 20, 30, 40, 50];
+    let arr1 = [10, 20, 30, 40];
     const res = arr1.reduce((total, arr1) => total + arr1)
 
     return (
